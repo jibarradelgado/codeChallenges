@@ -22,9 +22,7 @@ var reverseOnlyLetters = function(s) {
   }
   
   let result = arrayLetters.join('')
-  // console.log(arrayLetters)
-  // console.log(reverseFullArray)
-  // console.log(reverseLetters)
+  
   console.log(result)
 
   return result
